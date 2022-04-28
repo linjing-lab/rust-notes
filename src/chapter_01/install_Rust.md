@@ -29,7 +29,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 卸载Rust:
 
----> `rustup install uninstall`
+---> `rustup self uninstall`
 
 ## 安装验证
 
