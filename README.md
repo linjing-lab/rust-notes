@@ -1,4 +1,4 @@
-# rust-notes
+# rust-notes🦀
 
 <div align="center">
     <img src="./asserts/logo.png">
