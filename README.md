@@ -1,7 +1,7 @@
 # rust-notes
 
 <div align="center">
-    <img src="./asserts/logo.jpg">
+    <img src="./asserts/logo.png">
 </div>
 
 > `Rust`编程语言学习笔记
