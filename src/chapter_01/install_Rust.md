@@ -2,7 +2,7 @@
 
 ## 如何自定义路径安装
 
-&emsp;&emsp;首先定义路径，比如说，你需要将`.cargo`文件夹放在`D`盘下，那么你需要：
+首先定义路径，比如说，你需要将`.cargo`文件夹放在`D`盘下，那么你需要：
 
 ```textile
 CARGO_HOME: D:\Rust\.cargo
@@ -33,7 +33,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 ## 安装验证
 
-* `rustc --version`
+`rustc --version`
 
 ---> 结果格式: rustc x.y.z (abcabcabc yyyy-mm-dd)
 
@@ -41,18 +41,20 @@ curl https://sh.rustup.rs -sSf | sh
 
 ## 本地文档
 
-* 安装Rust的时候，还会在本地安装文档，可离线浏览
-* 运行`rustup doc`可在浏览器打开本地文档
+安装Rust的时候，还会在本地安装文档，可离线浏览
+
+运行`rustup doc`可在浏览器打开本地文档
 
 ## 开发工具
-* Visual Studio Code
+
+Visual Studio Code
 
 ---> Rust插件
 
-* CLion（Intellij Idea系列）
+CLion（Intellij Idea系列）
 
 ---> Rust插件
 
-* `Sublime Text`
+`Sublime Text`
 
 ---> 我使用的
