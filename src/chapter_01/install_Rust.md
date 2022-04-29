@@ -25,19 +25,19 @@ curl https://sh.rustup.rs -sSf | sh
 
 更新Rust
 
----> `rustup update`
+* `rustup update`
 
 卸载Rust:
 
----> `rustup self uninstall`
+* `rustup self uninstall`
 
 ## 安装验证
 
 `rustc --version`
 
----> 结果格式: rustc x.y.z (abcabcabc yyyy-mm-dd)
+* 结果格式: rustc x.y.z (abcabcabc yyyy-mm-dd)
 
----> 会显示最新稳定版的：版本号、commit hash、commit 日期
+* 会显示最新稳定版的：版本号、commit hash、commit 日期
 
 ## 本地文档
 
@@ -49,12 +49,10 @@ curl https://sh.rustup.rs -sSf | sh
 
 Visual Studio Code
 
----> Rust插件
+* Rust插件
 
 CLion（Intellij Idea系列）
 
----> Rust插件
+* Rust插件
 
-`Sublime Text`
-
----> 我使用的
+`Sublime Text` ---> 我使用的
