@@ -1,12 +1,14 @@
 # rust-notes🦀
 
-<div align="center">
-    <img src="./asserts/logo.png">
-</div>
+<p align="center">
+    <a href="https://github.com/rust-lang/rust"> 
+        <img src="./asserts/logo.png"> 
+    </a>
+</p>
 
 ## Rust介绍 
 
-[Rust](https://github.com/rust-lang/rust) 是一门赋予每个人构建可靠且高效软件能力的语言，由[`Graydon Hoare`](https://github.com/graydon)开发并在被 [Mozilla](https://github.com/mozilla) 实验室收购成为一个 research 项目后发扬光大。 它具有安全、并发、实用等优势，支持函数式、并行式、程序式和面向对象的风格编程，已经连续`6`年在 [stack overflow](https://stackoverflow.com/) 上获得了最受喜爱的编程语言！
+Rust 是一门赋予每个人构建可靠且高效软件能力的语言，由[`Graydon Hoare`](https://github.com/graydon)开发并在被 [Mozilla](https://github.com/mozilla) 实验室收购成为一个 research 项目后发扬光大。 它具有安全、并发、实用等优势，支持函数式、并行式、程序式和面向对象的风格编程，已经连续`6`年在 [stack overflow](https://stackoverflow.com/) 上获得了最受喜爱的编程语言！
 
 高性能：速度惊人且内存利用率极高。 由于没有运行时和垃圾回收，它能够胜任对性能要求特别高的服务，可以在嵌入式设备上运行，还能轻松和其他语言集成。 
 
